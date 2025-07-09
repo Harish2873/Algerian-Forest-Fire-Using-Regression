@@ -48,7 +48,8 @@ The dataset includes 244 instances that regroup a data of two regions of Algeria
 
 ---
 ## Streamlit
-### 🔗 Live Demo
 
+ 🔗 Live Demo
 👉 [Click here to open the Streamlit App](https://algerian-forest-fire-using-regression.streamlit.app/)
+
 ---
