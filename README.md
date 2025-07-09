@@ -41,7 +41,7 @@ The dataset includes 244 instances that regroup a data of two regions of Algeria
 ![Heatmap](Images/Heatmap.png)
 
 ### 📉 Actual vs Predicted Values Plot
-![Actual vs Predicted](images/ActualVsPredicted.png)
+![Actual vs Predicted](Images/ActualVsPredicted.png)
 
 ### 🔥🔥 Fire vs No-Fire Pie Chart
 ![Pie Chart of Fire/Not Fire](Images/Piechart.png)
