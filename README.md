@@ -35,7 +35,7 @@ The dataset includes 244 instances that regroup a data of two regions of Algeria
 ![Boxplot Before And After Scaling](Images/Boxplts.png)
 
 ### 📊 Distribution of Numerical Features (Histogram)
-![Histogram](Images/Histplot.png)
+![Histogram](Images/HistPlot.png)
 
 ### 🔥 Correlation Heatmap
 ![Heatmap](Images/Heatmap.png)
