@@ -40,14 +40,15 @@ The dataset includes 244 instances that regroup a data of two regions of Algeria
 ### 🔥 Correlation Heatmap
 ![Heatmap](Images/Heatmap.png)
 
-## 🔗 Live Demo
-
-👉 [Click here to open the Streamlit App](https://algerian-forest-fire-using-regression.streamlit.app/)
-
 ### 📉 Actual vs Predicted Values Plot
 ![Actual vs Predicted](Images/ActualVsPredicted.png)
 
 ### 🔥🔥 Fire vs No-Fire Pie Chart
 ![Pie Chart of Fire/Not Fire](Images/Piechart.png)
 
+---
+## Streamlit
+### 🔗 Live Demo
+
+👉 [Click here to open the Streamlit App](https://algerian-forest-fire-using-regression.streamlit.app/)
 ---
